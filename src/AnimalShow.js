@@ -1,4 +1,5 @@
 import { useState } from "react";
+import "./AnimalShow.css";
 import bird from "./resources/svg/bird.svg";
 import cat from "./resources/svg/cat.svg";
 import cow from "./resources/svg/cow.svg";
